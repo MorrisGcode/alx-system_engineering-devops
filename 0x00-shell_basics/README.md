@@ -1,1 +1,1 @@
-move betty to temp
+first delete
