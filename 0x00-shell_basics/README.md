@@ -1,1 +1,1 @@
-first directory
+move betty to temp
