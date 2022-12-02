@@ -1,1 +1,1 @@
-add execute 114 permission
+add execute permission to everyone
