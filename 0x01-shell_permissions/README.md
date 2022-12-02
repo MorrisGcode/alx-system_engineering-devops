@@ -1,1 +1,1 @@
-shows current user
+show groups user is in
