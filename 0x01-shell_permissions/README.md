@@ -1,1 +1,1 @@
-show groups user is in
+change file ownership
