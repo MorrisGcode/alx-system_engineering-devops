@@ -1,3 +1,2 @@
-#!/bin/bash/
-chown vincent.staff*
-chown vincent.staff
+#!/bin/bash
+sudo chown -hr vincent:staff .
